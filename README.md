@@ -10,10 +10,10 @@
 
 ### Sosyal Medya Hesaplarım:
 
-[<img align="left" alt="https://www.youtube.com/channel/UC6fvrRAHA8XV8RimFjunHxw | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="https://twitter.com/theomers_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="https://www.linkedin.com/in/%C3%B6mer-faruk-aslancan-765122215/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="https://www.instagram.com/omerfarukaslancan_/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="https://www.youtube.com/channel/UC6fvrRAHA8XV8RimFjunHxw | YouTube" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3](https://www.youtube.com/@TheOmerS)/icons/youtube.svg" />][youtube]
+[<img align="left" alt="https://twitter.com/theomers_ | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v](https://www.youtube.com/@TheOmerS)/icons/twitter.svg" />][twitter]
+[<img align="left" alt="https://www.linkedin.com/in/%C3%B6mer-faruk-aslancan-765122215/ | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3](https://www.youtube.com/@TheOmerS)/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://www.instagram.com/omerfarukaslancan_/ | Instagram" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3](https://www.youtube.com/@TheOmerS)/icons/instagram.svg" />][instagram]
 
 <br />
 
