@@ -7,14 +7,6 @@
 - 👯 15 Yaşındayım, Yazılım ile ilgili içerik üreticiyim 
 - 🥅 Birçok proje geliştiriyorum zaten Projelerime bakabilirsiniz
 - ⚡ Bunların Dışında Basketbol Oynamayı Çok Seviyorum!
-
-### Sosyal Medya Hesaplarım:
-
-[<img align="left" alt="https://www.youtube.com/channel/UC6fvrRAHA8XV8RimFjunHxw | YouTube" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3](https://www.youtube.com/@TheOmerS)/icons/youtube.svg" />][youtube]
-[<img align="left" alt="https://twitter.com/theomers_ | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v](https://www.youtube.com/@TheOmerS)/icons/twitter.svg" />][twitter]
-[<img align="left" alt="https://www.linkedin.com/in/%C3%B6mer-faruk-aslancan-765122215/ | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3](https://www.youtube.com/@TheOmerS)/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="https://www.instagram.com/omerfarukaslancan_/ | Instagram" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3](https://www.youtube.com/@TheOmerS)/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Diller ve Araçlar::
