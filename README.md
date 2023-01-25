@@ -1,8 +1,8 @@
 ## Hello! I'm Ömer Faruk Aslancan.
 
-- 🔥 I'm Ömer Faruk Aslancan, I'm a Web Developer
-- 🎓 I'm a 15 Years Old Student 
-- 🌎 I am developing projects in many fields.
+- 🔥 I'm **Ömer Faruk Aslancan**, I'm a **Web Developer**
+- 🎓 I'm a **15 Years** Old Student 
+- 🌎 I am **developing projects** in many fields.
 
 ### Sosyal Medya Hesapları
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)]([link](https://github.com/TheOmerS)) 
