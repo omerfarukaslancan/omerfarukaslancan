@@ -4,7 +4,7 @@
 - 🎓 I'm a 15 Years Old Student 
 - 🌎 I am developing projects in many fields.
 
-<img src="https://github.com/TheOmers/TheOmers/blob/main/cd59d626dc86397fe45080e6e9c7027d.gif?raw=true" width="60%">
+<img src="https://github.com/TheOmers/TheOmers/blob/main/cd59d626dc86397fe45080e6e9c7027d.gif?raw=true" width="60% align="right">
 
 ### Sosyal Medya Hesaplarım
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)]([link](https://github.com/TheOmerS)) 
