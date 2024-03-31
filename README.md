@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk Aslancan</h1>
 <h3 align="center">A Software Expert in Turkey</h3>
 
-- 🔭 I’m currently working on ["Yazılımcı Gençlik Kolları"](https://discord.gg/Yb35t53f8G)
+- 💬 I am a 17-Year-Old Software Developer and Educational Video Content Producer. I love what I do
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
