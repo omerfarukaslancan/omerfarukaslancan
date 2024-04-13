@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Languages and Tools:</p>
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">My Social Media Account</p>
+<h3 align="left">My Social Media Account</h3>
 
 ###
 
