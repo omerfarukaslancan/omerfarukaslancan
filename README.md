@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="52" height="40" alt="linkedin logo"   <a href= "https://www.linkedin.com/in/%C3%B6mer-faruk-aslancan-765122215/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="52" height="40" alt="linkedin logo">
   <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="52" height="40" alt="twitter logo"  />
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="52" height="40" alt="discord logo"  />
   <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="52" height="40" alt="youtube logo"  />
