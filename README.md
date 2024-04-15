@@ -29,21 +29,22 @@
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/omerfarukaslancan/">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="52" height="40" alt="linkedin logo">
+  </a>
 
+  <a href="https://twitter.com/theomerfaruk_py">
   <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="52" height="40" alt="twitter logo"  />
+  </a>
 
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="52" height="40" alt="discord logo"  />
-        
-  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="52" height="40" alt="youtube logo"  />
-  
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="52" height="40" alt="youtube logo" />
+<a href="https://instagram.com/omerfarukaslancan_">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="52" height="40" alt="discord logo"  />  
+</a>
 </div>
 
 ###
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=OmerFarukAslancan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmerFarukAslancan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
