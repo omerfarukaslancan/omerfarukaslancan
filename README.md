@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on [Google](https://google.com/)
 
-- 📝 I produce content regularly [https://www.youtube.com/@OmerFarukAslancan](https://www.youtube.com/@OmerFarukAslancan)
-
 - 💬 Ask me about **React Native & React.js**
 
 - 📫 How to reach me **omerfarukaslancan0@gmail.com**
